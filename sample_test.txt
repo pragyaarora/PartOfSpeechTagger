@@ -1,0 +1,14 @@
+Lunch NOUN
+@UniversityCup X
+before ADP
+1st NUM
+MKT NOUN
+exam NOUN
+@ ADP
+3:30 NUM
+.... .
+
+No DET
+work NOUN
+today NOUN
+
